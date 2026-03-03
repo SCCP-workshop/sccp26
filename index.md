@@ -52,7 +52,7 @@ Topics of interest include (but are not limited to):
 * Formal methods for consistency checking
 * Benchmarks andempirical studies of consistency violations
 * Emerging applications of consistency checking
-* Industryexperienceandlessonsfromdeployedcheckingsystems
+* Industry experience and lessons from deployed checking systems
 
 ### Important Dates
 

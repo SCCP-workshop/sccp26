@@ -4,34 +4,46 @@ title: Call for Papers
 
 # Call for Papers
 
-Consistency is one of the fundamental challenges of distributed computing. While stronger consistency models can be easier for programmers to reason about, weaker consistency models often provide better availability and performance. Beyond the well-known tension captured by the CAP theorem, many nuanced consistency models and algorithms have been developed for different purposes — yet *checking* whether a system actually satisfies a given consistency model remains a hard, underexplored problem.
+Consistency is one of the fundamental challenges of distributed computing.
+While stronger consistency models can be easier for programmers to reason
+about, weaker consistency models often provide better availability and
+performance. Beyond the well-known tension captured by the CAP theorem, many
+nuanced consistency models and algorithms have been developed for different
+purposes---yet *checking* whether a system actually satisfies a given
+consistency model remains a challenging problem.
 
-SCCP 2025 invites contributions from researchers and practitioners working on any aspect of consistency checking, from theory to systems to tools. We welcome work from the perspectives of distributed systems, programming languages, formal methods, databases, concurrent programming, and verification.
+SCCP 2026 invites contributions from researchers and practitioners working on
+any aspect of consistency checking, from theory to systems to tools. We welcome
+work from the perspectives of distributed systems, programming languages,
+formal methods, databases, concurrent programming, and verification.
 
 ## Topics of Interest
 
-* Formal verification of consistency models (linearizability, serializability, causal consistency, snapshot isolation, read committed, etc.)
-* Runtime monitoring and testing for consistency violations
-* Automated consistency checking tools and frameworks
-* Consistency in distributed databases and key-value stores
-* Weak memory model checking (TSO, ARM, RISC-V, etc.)
-* Consistency checking for replicated data structures (CRDTs)
-* Checking consistency in geo-distributed and edge computing systems
-* Trade-off analysis between consistency, availability, and performance
-* Correctness of transactional systems
-* Synthesis of consistent systems from specifications
-* Program analysis and verification for consistency properties
-* Case studies and experience reports from production systems
+* Algorithms and complexity of consistency checking
+* Formalsemantics of consistency modelsandisolation levels
+* Practical systemsfor consistency checking
+* Approximate checking techniques with guarantees
+* Checking weak, hybrid,andconfigurable isolation levels
+* Consistency checking in distributed and geo-distributedsystems
+* Consistency checking for conflict-free replicated data types (CRDTs)
+* Testing, debugging, and validation tools for database consistency
+* Formal methods for consistency checking
+* Benchmarks andempirical studies of consistency violations
+* Emerging applications of consistency checking
+* Industry experience and lessons from deployed checking systems
 
 ## Submission Types
 
 SCCP 2025 invites submissions of three types:
 
-1. **Short papers** (up to 6 pages excluding bibliography): original contributions, experience reports, or work in progress with initial validation.
-2. **Full papers** (up to 12 pages excluding bibliography): mature research results; may be concurrently submitted or accepted at other venues (not published in the ACM library).
-3. **Lightning talk abstracts** (max 300 words): preliminary or provocative ideas, new trends, recent experience, or ongoing results.
+1. **Workshop papers** (up to 4 pages excluding references): original
+   contributions, experience reports, or work in progress with initial
+   validation.
+3. **Extended abstracts** (1 page): preliminary or provocative
+   ideas, new trends, recent experience, or ongoing results.
 
-For short paper submissions, longer proposals are permitted, but PC members are only expected to read the first 6 pages.
+For short paper submissions, longer proposals are permitted, but PC members are
+mainly expected to read the first 4 pages.
 
 ## Submission Guidelines
 
@@ -53,10 +65,10 @@ For questions, contact the Program Chairs at [sccp2025@example.com](mailto:sccp2
 
 ## Important Dates
 
-| Submission deadline   | TBD, 2025 |
+| Submission deadline   | June 26, 2026 |
 |---|---|
-| Notification date     | TBD, 2025 |
-| Camera-Ready deadline | TBD, 2025 |
-| Workshop              | TBD, 2025 |
+| Notification date     | July 24, 2026 |
+| Camera-Ready deadline | August 7, 2026 |
+| Workshop              | August 31, 2026 |
 
 All deadline times are 23:59 hrs [AoE](https://www.timeanddate.com/time/zones/aoe).

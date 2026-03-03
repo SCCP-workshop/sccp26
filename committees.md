@@ -4,18 +4,9 @@ title: Committees
 
 # Committees
 
-**Program Chairs**
-* [Name], [Affiliation]
-* [Name], [Affiliation]
+**Program Chair**
+* Cheng Tan, Northeastern University
 
 **Program Committee**
-* [Name], [Affiliation]
-* [Name], [Affiliation]
-* [Name], [Affiliation]
-* [Name], [Affiliation]
-* [Name], [Affiliation]
-* [Name], [Affiliation]
+* TBD
 
-**Steering Committee**
-* [Name], [Affiliation]
-* [Name], [Affiliation]
