@@ -4,7 +4,7 @@ title: Program
 
 # Program
 
-The SCCP 2025 program will be posted here after paper acceptance notifications.
+The SCCP 2026 program will be posted here after paper acceptance notifications.
 
 ---
 

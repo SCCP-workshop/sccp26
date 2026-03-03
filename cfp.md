@@ -34,7 +34,7 @@ formal methods, databases, concurrent programming, and verification.
 
 ## Submission Types
 
-SCCP 2025 invites submissions of three types:
+SCCP 2026 invites submissions of three types:
 
 1. **Workshop papers** (up to 4 pages excluding references): original
    contributions, experience reports, or work in progress with initial
@@ -61,7 +61,7 @@ Authors of accepted **short papers** may choose to have their papers published i
 
 **Submission site:** [TBD](#)
 
-For questions, contact the Program Chairs at [sccp2025@example.com](mailto:sccp2025@example.com).
+For questions, contact the [Program Chair](mailto:naizhengtan@gmail.com).
 
 ## Important Dates
 
