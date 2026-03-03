@@ -12,9 +12,9 @@ principled analysis of consistency models in databases,
 distributed systems,
 and concurrent programs.
 
-The workshop focuses on **checking**:
+**The workshop focuses on checking:
 how can we verify, test, monitor, or
-certify that a system satisfies a given consistency model?
+certify that a system satisfies a given consistency model?**
 
 Consistency defines the semantic contract of shared-state systems,
 spanning isolation levels in databases,
