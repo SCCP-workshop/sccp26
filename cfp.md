@@ -23,8 +23,8 @@ formal methods, databases, concurrent programming, and verification.
 * Formalsemantics of consistency modelsandisolation levels
 * Practical systemsfor consistency checking
 * Approximate checking techniques with guarantees
-* Checking weak, hybrid,andconfigurable isolation levels
-* Consistency checking in distributed and geo-distributedsystems
+* Checking weak, hybrid,and configurable isolation levels
+* Consistency checking in distributed and geo-distributed systems
 * Consistency checking for conflict-free replicated data types (CRDTs)
 * Testing, debugging, and validation tools for database consistency
 * Formal methods for consistency checking
