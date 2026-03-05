@@ -34,22 +34,34 @@ formal methods, databases, concurrent programming, and verification.
 
 ## Submission Types
 
-SCCP 2026 invites submissions of three types:
+SCCP 2026 invites submissions of two types:
 
-1. **Workshop papers** (up to 4 pages excluding references): original
+1. **Workshop papers** (expected 4 pages excluding references): original
    contributions, experience reports, or work in progress with initial
    validation.
-3. **Extended abstracts** (1 page): preliminary or provocative
-   ideas, new trends, recent experience, or ongoing results.
+2. **Extended abstracts** (up to 1 page):
+   preliminary or provocative ideas,
+   emerging trends,
+   recent experiences,
+   ongoing results,
+   or new interpretations or discoveries
+   derived from previously published work.
 
-For short paper submissions, longer proposals are permitted, but PC members are
-mainly expected to read the first 4 pages.
+For the workshop paper submissions, longer proposals are permitted,
+but PC members are mainly expected to read the first 4 pages.
 
 ## Submission Guidelines
 
-Submissions do not need to be anonymised. All submissions should be written in English and submitted in PDF format.
+All submissions should be written in
+English and submitted in PDF format.
 
-We suggest the [ACM template for LaTeX or MS Word](https://www.acm.org/publications/proceedings-template). If using LaTeX:
+The review process follows a **double-blind policy**.
+Authors must make a good-faith effort to anonymize their submissions and avoid revealing their
+identities, either explicitly or implicitly (e.g., through references or
+acknowledgments). Institutional affiliations should also be anonymized.
+
+We suggest the [ACM template for LaTeX or MS Word](https://www.acm.org/publications/proceedings-template).
+If using LaTeX:
 
 ```latex
 \documentclass[sigplan,review]{acmart}
@@ -57,7 +69,8 @@ We suggest the [ACM template for LaTeX or MS Word](https://www.acm.org/publicati
 \settopmatter{printfolios=true,printacmref=false}
 ```
 
-Authors of accepted **short papers** may choose to have their papers published in the ACM Digital Library. Lightning talk abstracts and full papers will not be included.
+Authors of accepted **workshop papers** may choose to have their papers published
+in the proceding with VLDB.
 
 **Submission site:** [TBD](#)
 
