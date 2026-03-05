@@ -70,7 +70,7 @@ If using LaTeX:
 ```
 
 Authors of accepted **workshop papers** may choose to have their papers published
-in the proceding with VLDB.
+in the workshop proceding with VLDB.
 
 **Submission site:** [TBD](#)
 
