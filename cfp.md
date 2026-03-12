@@ -72,7 +72,12 @@ If using LaTeX:
 Authors of accepted **workshop papers** may choose to have their papers published
 in the workshop proceding with VLDB.
 
-**Submission site:** [TBD](#)
+**Submission site:** [to appear](#)
+
+The Microsoft CMT service was used for managing the peer-reviewing process for
+this conference. This service was provided for free by Microsoft and they bore
+all expenses, including costs for Azure cloud services as well as for software
+development and support.
 
 For questions, contact the [Program Chair](mailto:naizhengtan@gmail.com).
 
