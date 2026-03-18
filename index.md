@@ -56,10 +56,11 @@ Topics of interest include (but are not limited to):
 
 ### Important Dates
 
-| Submission deadline   | June 26, 2026 |
 |---|---|
-| Notification date     | July 24, 2026 |
-| Camera-Ready deadline | August 7, 2026 |
+| Submission deadline   | June 05, 2026 |
+|---|---|
+| Notification date     | June 26, 2026 |
+| Camera-Ready deadline | July 10, 2026 |
 | Workshop              | August 31, 2026 |
 
 All deadline times are 23:59 hrs [AoE](https://www.timeanddate.com/time/zones/aoe).
