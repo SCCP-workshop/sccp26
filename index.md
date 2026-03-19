@@ -61,6 +61,6 @@ Topics of interest include (but are not limited to):
 |---|---|
 | Notification date     | June 26, 2026 |
 | Camera-Ready deadline | July 10, 2026 |
-| Workshop              | August 31, 2026 |
+| Workshop              | September 04, 2026 |
 
 All deadline times are 23:59 hrs [AoE](https://www.timeanddate.com/time/zones/aoe).
