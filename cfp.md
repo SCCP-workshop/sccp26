@@ -20,10 +20,10 @@ formal methods, databases, concurrent programming, and verification.
 ## Topics of Interest
 
 * Algorithms and complexity of consistency checking
-* Formalsemantics of consistency modelsandisolation levels
+* Formal semantics of consistency models and isolation levels
 * Practical systemsfor consistency checking
 * Approximate checking techniques with guarantees
-* Checking weak, hybrid,and configurable isolation levels
+* Checking weak, hybrid, and configurable isolation levels
 * Consistency checking in distributed and geo-distributed systems
 * Consistency checking for conflict-free replicated data types (CRDTs)
 * Testing, debugging, and validation tools for database consistency
@@ -31,6 +31,7 @@ formal methods, databases, concurrent programming, and verification.
 * Benchmarks andempirical studies of consistency violations
 * Emerging applications of consistency checking
 * Industry experience and lessons from deployed checking systems
+* New consistency modeling for AI and agentic systems
 
 ## Submission Types
 
