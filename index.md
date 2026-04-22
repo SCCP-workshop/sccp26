@@ -43,7 +43,7 @@ Topics of interest include (but are not limited to):
 
 * Algorithms and complexity of consistency checking
 * Formal semantics of consistency models and isolation levels
-* Practical systemsfor consistency checking
+* Practical systems for consistency checking
 * Approximate checking techniques with guarantees
 * Checking weak, hybrid, and configurable isolation levels
 * Consistency checking in distributed and geo-distributed systems
