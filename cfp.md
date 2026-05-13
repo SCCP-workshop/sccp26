@@ -73,7 +73,7 @@ If using LaTeX:
 Authors of accepted **workshop papers** may choose to have their papers published
 in the workshop proceding with VLDB.
 
-**Submission site:** [to appear](#)
+**Submission site:** [https://cmt3.research.microsoft.com/SCCP2026](https://cmt3.research.microsoft.com/SCCP2026)
 
 The Microsoft CMT service was used for managing the peer-reviewing process for
 this conference. This service was provided for free by Microsoft and they bore
