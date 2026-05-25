@@ -85,8 +85,8 @@ For questions, contact the [Program Chair](mailto:naizhengtan@gmail.com).
 ## Important Dates
 
 |---|---|
-| Submission deadline   | June 05, 2026 |
-| Notification date     | June 26, 2026 |
+| Submission deadline   | June 12, 2026 |
+| Notification date     | June 30, 2026 |
 | Camera-Ready deadline | July 10, 2026 |
 | Workshop              | September 04, 2026 |
 
