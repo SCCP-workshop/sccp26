@@ -2,7 +2,7 @@
 title: SCCP - Symposium on Consistency Checking Principles (2026)
 ---
 
-The **1st Symposium on Checking Consistency Principles (SCCP)** will take place at Boston,
+The **1st Symposium on Consistency Checking Principles (SCCP)** will take place at Boston,
 in conjunction with [VLDB](https://vldb.org/2026/).
 
 ### About SCCP
