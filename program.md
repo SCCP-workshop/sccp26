@@ -40,9 +40,6 @@ _Qiuhuan Xiong (Nanjing University), Si Liu (Texas A&amp;M University), Hengfeng
 **[Polygraph: From Transaction Isolation Guarantees to Isolation Verification](papers/sccp26-polygraph.pdf)**  
 _Jian Zhang (Northeastern University), Cheng Tan (Northeastern University)_
 
-**The Consistency–Isolation Dial: A Unified Framework for Tunable Guarantees**  
-_Atharv Bijapur (Stony Brook University), Pranav Pateriya (Stony Brook University), Kevin Dharmawan (Stony Brook University), Mohammad Javad Amiri (Stony Brook University)_
-
 **Reduce Once, Verify Many: Verifying Isolation Guarantees via Hierarchical Abstractions**  
 _Shabnam Ghasemirad (ETH Zurich), Christoph Sprenger (ETH Zurich), Si Liu (Texas A&amp;M University), David Basin (ETH Zurich)_
 
