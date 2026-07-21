@@ -7,10 +7,6 @@ title: Program
 SCCP 2026 is a one-day workshop co-located with [VLDB 2026](https://vldb.org/2026/)
 in Boston. Paper titles link to the camera-ready PDF where available.
 
-Every paper must have at least one author with a regular workshop registration
-(workshop, or conference &amp; workshop); see the
-[VLDB 2026 registration page](https://vldb.org/2026/registration.html).
-
 Session times and chairs will be announced closer to the workshop.
 
 ---
