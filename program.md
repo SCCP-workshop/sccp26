@@ -40,7 +40,7 @@ _Qiuhuan Xiong (Nanjing University), Si Liu (Texas A&amp;M University), Hengfeng
 **[Polygraph: From Transaction Isolation Guarantees to Isolation Verification](papers/sccp26-polygraph.pdf)**  
 _Jian Zhang (Northeastern University), Cheng Tan (Northeastern University)_
 
-**Reduce Once, Verify Many: Verifying Isolation Guarantees via Hierarchical Abstractions**  
+**[Reduce Once, Verify Many: Verifying Isolation Guarantees via Hierarchical Abstractions](papers/SCCP_2026_Ghasemirad_final.pdf)**  
 _Shabnam Ghasemirad (ETH Zurich), Christoph Sprenger (ETH Zurich), Si Liu (Texas A&amp;M University), David Basin (ETH Zurich)_
 
 #### Session 4: Consistency Goes Agentic
