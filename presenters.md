@@ -4,7 +4,7 @@ title: Instructions for Presenters
 
 # Instructions for Presenters
 
-Thank you for presenting your work at **SCCP'26**. This page describes the presentation format, talk-length requirements, and hybrid setup.
+This page describes the presentation format, talk-length requirements, and hybrid setup.
 
 ## Workshop Program
 
