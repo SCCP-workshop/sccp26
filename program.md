@@ -15,7 +15,7 @@ Session times will be announced closer to the workshop.
 
 
 #### Keynote
-_Speaker: Alexey Gotsman (IMDEA Software Institute)__
+_Speaker: Alexey Gotsman (IMDEA Software Institute)_
 
 #### Session 1: Checking Reality
 _Session Chair: Si Liu (Texas A&amp;M University)_
