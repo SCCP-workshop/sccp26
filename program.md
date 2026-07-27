@@ -20,7 +20,7 @@ _Speaker: Alexey Gotsman (IMDEA Software Institute)_
 #### Session 1: Checking Reality
 _Session Chair: Si Liu (Texas A&amp;M University)_
 
-**Extending Elle for Transaction Workloads with Duplicate Values**  
+[**Extending Elle for Transaction Workloads with Duplicate Values**](https://arxiv.org/pdf/2607.17515)  
 _Zhiheng Cai (Tsinghua University), Si Liu (Texas A&amp;M University), Hengfeng Wei (Hunan University), Yuxing Chen (Renmin University of China)_
 
 **[Efficient Black-Box Serializability Checking in the Presence of Range Predicates](papers/sccp26-serializability-range-predicates.pdf)**  
