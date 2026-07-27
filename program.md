@@ -13,6 +13,10 @@ Session times will be announced closer to the workshop.
 
 ## Friday, September 4, 2026
 
+
+#### Keynote
+_Speaker: Alexey Gotsman (IMDEA Software Institute)__
+
 #### Session 1: Checking Reality
 _Session Chair: Si Liu (Texas A&amp;M University)_
 
