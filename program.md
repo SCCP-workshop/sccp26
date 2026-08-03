@@ -58,3 +58,9 @@ _Hongtao Lyu (Shanghai Jiao Tong University), Dingyan Zhang (Shanghai Jiao Tong 
 
 **[Beyond Pass Rate: A Hierarchy of Behavioral Consistency for LLM Agents](papers/sccp26-behavioral-consistency-llm-agents.pdf)**  
 _Tian Lu (Northeastern University), Zikai Wang (Northeastern University), Cheng Tan (Northeastern University)_
+
+---
+
+[**AI-generated summaries of the accepted papers**](sccp26-paper-summaries.html)
+&mdash; short overviews of all 10 papers, produced by an AI model and lightly
+reviewed. Please refer to the papers above for authoritative descriptions.
