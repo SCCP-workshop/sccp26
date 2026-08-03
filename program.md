@@ -41,7 +41,7 @@ _Arnaud Daby-Seesaram (Aarhus University), Léon Ducruet (Aarhus University), La
 #### Session 3: Many Models, One Theory
 _Session Chair: Hengfeng Wei (Hunan University)_
 
-**Semantic Conformance of Concurrency Control Protocols under Mixed Isolation Levels**  
+[**Semantic Conformance of Concurrency Control Protocols under Mixed Isolation Levels**](http://arxiv.org/abs/2607.16696)  
 _Qiuhuan Xiong (Nanjing University), Si Liu (Texas A&amp;M University), Hengfeng Wei (Hunan University), Yuxing Chen (Renmin University of China), Jidong Ge (Nanjing University)_
 
 **[Polygraph: From Transaction Isolation Guarantees to Isolation Verification](papers/sccp26-polygraph.pdf)**  
