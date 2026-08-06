@@ -23,6 +23,7 @@ Abstract: Checking whether a given database run is correct with respect to the i
 
 Bio: Alexey Gotsman is a Research Professor at the IMDEA Software Institute in Madrid, Spain and a Scholar at Amazon Web Services. He obtained his PhD at the University of Cambridge, UK. His research interests are in distributed computing, software verification and the combinations of the two.
 
+
 #### Session 1: Checking Reality
 _Session Chair: Si Liu (Texas A&amp;M University)_
 
