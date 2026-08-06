@@ -15,7 +15,13 @@ Session times will be announced closer to the workshop.
 
 
 #### Keynote
-_Speaker: Alexey Gotsman (IMDEA Software Institute)_
+_Speaker: Alexey Gotsman (IMDEA Software Institute and Amazon Web Services)_
+
+**Testing Consistency of Distributed Databases at AWS**
+
+Abstract: Checking whether a given database run is correct with respect to the intended isolation-level specification is often computationally hard. I will describe our ongoing work at Amazon Web Services on a tool that makes this problem tractable by exploiting database-internal information, such as transaction timestamps assigned by the concurrency control. I will also explain how we applied the tool to Aurora Limitless Database - a horizontally scalable variant of Aurora PostgreSQL with strongly consistent distributed transactions. Our tool uses concurrency-control information from a run of a distributed database, such as Aurora Limitless, to deterministically replay this run on a compatible non-distributed database, such as community PostgreSQL. Any mismatch in the database output signals a bug in the original run. This approach covers a large subset of SQL, including predicates and DDL statements, and faithfully checks the intricacies of isolation levels provided by PostgreSQL.
+
+Bio: Alexey Gotsman is a Research Professor at the IMDEA Software Institute in Madrid, Spain and a Scholar at Amazon Web Services. He obtained his PhD at the University of Cambridge, UK. His research interests are in distributed computing, software verification and the combinations of the two.
 
 #### Session 1: Checking Reality
 _Session Chair: Si Liu (Texas A&amp;M University)_
